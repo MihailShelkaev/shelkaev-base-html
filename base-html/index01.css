@@ -1,0 +1,27 @@
+.OrangeColor {
+    background-color: orange;
+}
+
+p {
+    text-indent: 25px;
+}
+
+.PurpleText {
+    color: purple;
+}
+
+.RedColor {
+    background-color: red;
+}
+
+.BlueText {
+    color: blue;
+}
+
+.GreenText {
+    color: green;
+}
+
+.BodyGradient {
+    background: linear-gradient(brown yellow green);
+}
